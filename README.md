@@ -1,10 +1,8 @@
+Game Templates for Windows 8
+============================
 Samples and resources for Scirra's Construct 2, available at https://www.scirra.com/construct2
 
 Intro with screenshots from each template - http://blogs.msdn.com/b/cbowen/archive/2013/04/21/game-development-with-construct-2-templates-for-windows-8.aspx
-
-
-Game Templates for Windows 8
-============================
 
 These templates, enhanced to support Windows Store & Windows 8 features, are based on the default templates included with Construct 2 and are posted here with permission from Scirra.  The original templates can be found in Construct 2 via the New Project dialog or in the Construct/templates/ directory.  
 
